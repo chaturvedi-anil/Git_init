@@ -1,1 +1,4 @@
 phone 
+
+text
+call
